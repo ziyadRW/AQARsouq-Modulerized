@@ -1,0 +1,6 @@
+{
+    "User": true,
+    "Auth": true,
+    "Listing": true,
+    "Realtor": true
+}

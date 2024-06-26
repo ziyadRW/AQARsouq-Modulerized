@@ -1,0 +1,9 @@
+{
+    "name": "User",
+    "alias": "User",
+    "active": 1,
+    "providers": [
+        "Modules\\User\\Providers\\UserServiceProvider"
+    ],
+    "files": []
+}
